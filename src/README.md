@@ -46,3 +46,6 @@ DB_PASSWORD: laravel_pass
 phpMyAdmin: http://localhost:8080
 
 管理画面　http://localhost/admin
+
+ER図
+![alt text](確認テスト用ER図.jpg)
